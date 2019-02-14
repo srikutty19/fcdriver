@@ -34,7 +34,7 @@
 	<gap:plugin name="cordova-plugin-x-toast" source="npm" spec="2.6.0" />	
 	<gap:plugin name="cordova-plugin-media" source="npm" spec="3.0.0" />	
 		   
-    <gap:plugin name="cordova-plugin-googlemaps"  source="npm" spec="2.5.0" >
+    <gap:plugin name="cordova-plugin-googlemaps"  source="npm" spec="1.3.9" >
        <param name="API_KEY_FOR_ANDROID" value="AIzaSyASAszisz19-SM_4OGpFp_ko1evT1sBS8s" />
        <param name="API_KEY_FOR_IOS" value="" />
     </gap:plugin>
