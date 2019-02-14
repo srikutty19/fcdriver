@@ -36,7 +36,8 @@
 		   
     <gap:plugin name="cordova-plugin-googlemaps"  source="npm">
        <param name="API_KEY_FOR_ANDROID" value="AIzaSyASAszisz19-SM_4OGpFp_ko1evT1sBS8s" />
-	<preference name="PLAY_SERVICES_VERSION" default="11+"/>
+	<preference name="PLAY_SERVICES_VERSION" default="15.0.0"/>
+
        <param name="API_KEY_FOR_IOS" value="" />
     </gap:plugin>
         <preference name="phonegap-version" value="cli-6.5.0" />
@@ -59,7 +60,7 @@
     <access origin="tel:*" launch-external="yes" />
     
     <gap:config-file platform="android" parent="/manifest">
-        <supports-screens android:xlargeScreens="true" android:largeScreens="true" android:smallScreens="true" />
+        <supports-screens android:xlargeScreens="true" android:argeScreens="true" android:smallScreens="true" />
         <application android:theme="@android:style/Theme.NoTitleBar" >            
         </application>
     </gap:config-file> 
