@@ -2,11 +2,11 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
-    id        = "kmrs.driver.app"
+    id        = "fc.mobile.app"
     version   = "1.5.0">
-    <name>Karenderia Driver App</name>
+    <name>Driver App</name>
     <description>
-        Karenderia Driver App
+        K Driver App
     </description>
     <author email="bastikikang@gmail.com" href="http://cordova.io">
         codemywebapps.com
