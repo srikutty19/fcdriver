@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "76201447774",
+    "firebase_url": "https://fcdriver-b5db0.firebaseio.com",
+    "project_id": "fcdriver-b5db0",
+    "storage_bucket": "fcdriver-b5db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76201447774:android:c3c3610f298104fd",
+        "android_client_info": {
+          "package_name": "fc.mobile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76201447774-n3gurmvu1f3oe155iati69lnbhfk15r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUu-H_xYuE45bxJokmXzZct5uzmg_fWFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
