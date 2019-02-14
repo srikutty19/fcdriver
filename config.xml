@@ -48,7 +48,7 @@
 	
   	
 
-    <plugin name="cordova-plugin-mauron85-background-geolocation" source="npm" spec="2.2.5" >
+    <plugin name="cordova-plugin-mauron85-background-geolocation" source="npm" >
         <variable name="ALWAYS_USAGE_DESCRIPTION" value="This app requires background tracking enabled" />
     </plugin>
              
