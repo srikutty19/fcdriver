@@ -38,7 +38,7 @@
        <param name="API_KEY_FOR_ANDROID" value="AIzaSyASAszisz19-SM_4OGpFp_ko1evT1sBS8s" />
        <param name="API_KEY_FOR_IOS" value="" />
     </gap:plugin>
-        <preference name="phonegap-version" value="cli-7.1.0" />
+        <preference name="phonegap-version" value="cli-6.5 " />
     <plugin name="cordova-plugin-insomnia" version="4.1.0" source="npm" />    
     <gap:plugin name="cordova-plugin-buildinfo" source="npm" spec="1.1.0" />	 
     <gap:plugin name="cordova-plugin-vibration" source="npm" spec="2.1.4" />	
