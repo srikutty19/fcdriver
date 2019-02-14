@@ -36,8 +36,7 @@
 		   
     <gap:plugin name="cordova-plugin-googlemaps"  source="npm">
        <param name="API_KEY_FOR_ANDROID" value="AIzaSyASAszisz19-SM_4OGpFp_ko1evT1sBS8s" />
-	<plugin name=”pluginB” spec=”npm”>
-  <variable name=”PLAY_SERVICES_VERSION” value=”15.0.0" />
+	
        <param name="API_KEY_FOR_IOS" value="" />
     </gap:plugin>
         <preference name="phonegap-version" value="cli-6.5.0" />
@@ -47,7 +46,9 @@
     <gap:plugin name="cordova-plugin-camera" source="npm" spec="2.4.0" />
     <gap:plugin name="cordova-plugin-file-transfer" source="npm" spec="1.6.2" />
     
-
+	<plugin name="pluginB" source="npm">
+  	<variable name="PLAY_SERVICES_VERSION" value="15.0.0" />
+	</plugin>
     <plugin name="cordova-plugin-mauron85-background-geolocation" source="npm" spec="2.2.5" >
         <variable name="ALWAYS_USAGE_DESCRIPTION" value="This app requires background tracking enabled" />
     </plugin>
